@@ -1,0 +1,5 @@
+export const API_ENDPOINT = 'https://api.roblox.com'
+export const USERS_ENDPOINT = 'https://users.roblox.com/v1'
+export const FRIENDS_ENDPOINT = 'https://friends.roblox.com/v1'
+export const GROUPS_ENDPOINT = 'https://groups.roblox.com/v2'
+export const THUMBNAIL_ENDPOINT = 'https://thumbnails.roblox.com/v1'
